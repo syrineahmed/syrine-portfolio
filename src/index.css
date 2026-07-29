@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap');
+
+@theme {
+  /* ─── Palette : élégante, chaude, professionnelle ─────────────── */
+  --color-ink: #faf6f0;          /* fond principal, crème chaud */
+  --color-panel: #f3e8dd;        /* panneaux, cards */
+  --color-panel-raised: #ecdac9; /* cards au hover / éléments actifs */
+  --color-line: #e3d2c1;         /* bordures, séparateurs */
+  --color-copper: #c4715f;       /* accent signature : rose terracotta */
+  --color-copper-dim: #a85c4c;   /* accent signature, variante foncée */
+  --color-trace: #b9975b;        /* accent secondaire : or discret */
+  --color-paper: #2e2126;        /* texte principal, prune profond */
+  --color-paper-dim: #7a6a6f;    /* texte secondaire */
+
+  /* ─── Hero : moment sombre et premium ───────────────────────────── */
+  --color-hero-bg: #2e2126;
+  --color-hero-line: rgba(250, 246, 240, 0.15);
+  --color-hero-text: #faf6f0;
+  --color-hero-text-dim: #cbb9be;
+
+  /* ─── Typographie ────────────────────────────────────────────── */
+  --font-display: 'Fraunces', serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'Inter', sans-serif;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-ink);
+    color: var(--color-paper);
+    font-family: var(--font-body);
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection {
+    background-color: var(--color-copper);
+    color: var(--color-ink);
+  }
+
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--color-ink);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-line);
+    border-radius: 5px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-copper-dim);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-copper);
+    outline-offset: 2px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+[dir="rtl"] {
+  font-family: var(--font-body);
+}

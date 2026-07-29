@@ -1,0 +1,156 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "experience": "Experience",
+    "education": "Education",
+    "certificates": "Certificates",
+    "contact": "Contact",
+    "resume": "Resume"
+  },
+  "hero": {
+    "eyebrow": "// syrine-ahmed.dev",
+    "title": "I build bridges between code and artificial intelligence",
+    "subtitle": "Software Engineer & AI Developer based in Tunis",
+    "cta": "Explore the portfolio",
+    "ctaVoice": "Ask the assistant a question"
+  },
+  "about": {
+    "title": "About",
+    "text": "Graduated in Software Engineering and passionate about modern technologies, I have led several full-stack, DevOps, and AI integration projects. I bring technical versatility and a quality-oriented approach to design robust, intelligent solutions. Committed to continuous learning, I regularly complete certifications in AI, data science, and digital marketing."
+  },
+  "projects": {
+    "title": "Projects",
+    "featuredLabel": "AI Projects",
+    "otherLabel": "Other Projects",
+    "viewDemo": "View demo",
+    "viewRepo": "View code",
+    "cvAnalyzer": {
+      "title": "CV Analyzer AI",
+      "desc": "Analyzes CVs against job descriptions with match score, strengths and advice. Supports PDF upload and 3 languages (FR/EN/AR)."
+    },
+    "aiChatbot": {
+      "title": "AI Chatbot with Memory",
+      "desc": "Conversational AI with full history and multiple personalities (HR Assistant, Coding Mentor, Career Coach)."
+    },
+    "jobSearch": {
+      "title": "Smart Job Search",
+      "desc": "Searches real jobs via the Adzuna API and analyzes each with AI for a match score."
+    },
+    "documentChat": {
+      "title": "Document Chat (RAG)",
+      "desc": "Chat with any PDF using RAG architecture: chunking, embeddings, vector search."
+    },
+    "weload": {
+      "title": "WeLoad Solutions",
+      "desc": "Fleet and delivery management platform, microservices architecture with full CI/CD."
+    },
+    "cocoEsprit": {
+      "title": "Coco Esprit",
+      "desc": "Student app: housing, carpooling and e-commerce with Web3 transactions."
+    },
+    "vsBazaar": {
+      "title": "VS Bazaar",
+      "desc": "E-commerce marketplace for startups and employees."
+    },
+    "medfly": {
+      "title": "MedFly",
+      "desc": "Medical travel organization platform."
+    },
+    "featuredBadge": "★ Flagship project"
+  },
+  "skills": {
+    "title": "Skills",
+    "ai": "AI & Python",
+    "backend": "Backend",
+    "frontend": "Frontend",
+    "devops": "DevOps",
+    "tools": "Tools"
+  },
+  "experience": {
+    "title": "Experience",
+    "aiDev": {
+      "role": "AI Integration Developer",
+      "desc": "Design and deployment of 4 complete AI applications, live in production."
+    },
+    "weload": {
+      "role": "Full Stack Developer",
+      "desc": "Design of a fleet management platform based on microservices architecture."
+    },
+    "vadasoft": {
+      "role": "Full Stack Developer",
+      "desc": "Innovative e-commerce marketplace for startups and employees."
+    },
+    "draxlmaier": {
+      "role": "Full Stack Developer",
+      "desc": "Platform facilitating HR-employee relations."
+    }
+  },
+  "certificates": {
+    "title": "Certificates",
+    "categories": {
+      "ai": "AI & Machine Learning",
+      "data": "Data Science & Programming",
+      "business": "Business & Project Management",
+      "sustainability": "Sustainability & Ethics"
+    }
+  },
+  "education": {
+    "title": "Education",
+    "esprit": {
+      "degree": "Software Engineering"
+    },
+    "ipeib": {
+      "degree": "Preparatory Program"
+    },
+    "bac": {
+      "degree": "Scientific Baccalaureate"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "text": "An opportunity, a question, a project idea? Feel free to reach out, I'd love to hear from you!",
+    "subtitle": "Let's talk about your next project",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "locationLabel": "Location",
+    "availableFor": "Available for new opportunities"
+  },
+  "assistant": {
+    "title": "AI Assistant",
+    "greeting": "Hi! I'm Syrine's voice assistant. Ask me anything about her background, projects, or skills.",
+    "listening": "Listening...",
+    "thinking": "Thinking...",
+    "micLabel": "Talk to the assistant",
+    "notSupported": "Speech recognition isn't supported in this browser. Try Chrome or Edge.",
+    "typePlaceholder": "Or type your question here...",
+    "send": "Send",
+    "fallback": "I don't have a precise answer on that, but you can contact Syrine directly by email."
+  },
+  "guide": {
+    "hero": "Hi there, welcome to my world! I'm so happy to show you around ✨",
+    "about": "Here's who I really am 💫",
+    "projects": "Here's what I've built with passion 🚀",
+    "skills": "My everyday toolbox 🛠️",
+    "experience": "My professional journey, step by step",
+    "education": "Let's discover my academic journey together 🎓",
+    "certificates": "Always learning something new 📚",
+    "contact": "Want to work together? Reach out, I'd love that! 💌",
+    "startTour": "Guided tour",
+    "stopTour": "Stop tour",
+    "voiceUnavailable": "Voice playback unavailable in this browser",
+    "resume": "Prefer everything in one document? My full resume is right here, in English or French depending on your language 📄",
+    "onboardingTitle": "Quick guide 👋",
+    "onboardingText": "The 🔊 button mutes or unmutes my voice. \"Guided tour\" makes me walk through the site for you, section by section.",
+    "onboardingDismiss": "Got it",
+    "voiceLabel": "Voice"
+  },
+  "resume": {
+    "title": "My Resume",
+    "subtitle": "A complete view of my background, in a single document.",
+    "view": "View resume",
+    "download": "Download PDF",
+    "lang_note": "English version"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "nav": {
+    "about": "À propos",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "education": "Formation",
+    "certificates": "Certificats",
+    "contact": "Contact",
+    "resume": "CV"
+  },
+  "hero": {
+    "eyebrow": "// syrine-ahmed.dev",
+    "title": "Je construis des ponts entre le code et l'intelligence artificielle",
+    "subtitle": "Ingénieure Logiciel & Développeuse IA basée à Tunis",
+    "cta": "Explorer le portfolio",
+    "ctaVoice": "Poser une question à l'assistant"
+  },
+  "about": {
+    "title": "À propos",
+    "text": "Diplômée en génie logiciel et passionnée par les technologies modernes, j'ai mené plusieurs projets full-stack, DevOps et d'intégration IA. J'apporte polyvalence technique et une approche orientée qualité pour concevoir des solutions robustes et intelligentes. Engagée dans une démarche d'apprentissage continu, je complète régulièrement des certifications en IA, data science et marketing digital."
+  },
+  "projects": {
+    "title": "Projets",
+    "featuredLabel": "Projets IA",
+    "otherLabel": "Autres projets",
+    "viewDemo": "Voir la démo",
+    "viewRepo": "Voir le code",
+    "cvAnalyzer": {
+      "title": "CV Analyzer AI",
+      "desc": "Analyse les CVs par rapport aux offres d'emploi avec score de correspondance, points forts et conseils. Supporte l'upload PDF et 3 langues (FR/EN/AR)."
+    },
+    "aiChatbot": {
+      "title": "Chatbot IA avec Mémoire",
+      "desc": "IA conversationnelle avec historique complet et personnalités multiples (Assistant RH, Mentor Code, Coach Carrière)."
+    },
+    "jobSearch": {
+      "title": "Recherche d'Emploi Intelligente",
+      "desc": "Recherche d'offres réelles via l'API Adzuna et analyse IA de chaque poste avec score de compatibilité."
+    },
+    "documentChat": {
+      "title": "Chat avec Document (RAG)",
+      "desc": "Discutez avec n'importe quel PDF grâce à l'architecture RAG : découpage, embeddings, recherche vectorielle."
+    },
+    "weload": {
+      "title": "WeLoad Solutions",
+      "desc": "Plateforme de gestion de flottes et livraisons, architecture microservices avec CI/CD complet."
+    },
+    "cocoEsprit": {
+      "title": "Coco Esprit",
+      "desc": "Application étudiante : logement, covoiturage et e-commerce avec transactions Web3."
+    },
+    "vsBazaar": {
+      "title": "VS Bazaar",
+      "desc": "Marketplace e-commerce pour startups et employés."
+    },
+    "medfly": {
+      "title": "MedFly",
+      "desc": "Plateforme d'organisation de voyages médicaux à l'étranger."
+    },
+    "featuredBadge": "★ Projet phare"
+  },
+  "skills": {
+    "title": "Compétences",
+    "ai": "IA & Python",
+    "backend": "Backend",
+    "frontend": "Frontend",
+    "devops": "DevOps",
+    "tools": "Outils"
+  },
+  "experience": {
+    "title": "Expérience",
+    "aiDev": {
+      "role": "Développeuse IA & Intégration",
+      "desc": "Conception et déploiement de 4 applications IA complètes déployées en production."
+    },
+    "weload": {
+      "role": "Développeuse Full Stack",
+      "desc": "Conception d'une plateforme de gestion de flottes basée sur une architecture microservices."
+    },
+    "vadasoft": {
+      "role": "Développeuse Full Stack",
+      "desc": "Marketplace e-commerce innovante pour startups et employés."
+    },
+    "draxlmaier": {
+      "role": "Développeuse Full Stack",
+      "desc": "Plateforme facilitant les relations RH-employés."
+    }
+  },
+  "certificates": {
+    "title": "Certificats",
+    "categories": {
+      "ai": "IA & Machine Learning",
+      "data": "Data Science & Programmation",
+      "business": "Business & Gestion de Projet",
+      "sustainability": "Développement Durable & Éthique"
+    }
+  },
+  "education": {
+    "title": "Formation",
+    "esprit": {
+      "degree": "Génie Logiciel"
+    },
+    "ipeib": {
+      "degree": "Cycle Préparatoire"
+    },
+    "bac": {
+      "degree": "Baccalauréat Scientifique"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "text": "Une opportunité, une question, une idée de projet ? N'hésitez pas à me contacter, je réponds toujours avec plaisir !",
+    "subtitle": "Discutons de votre prochain projet",
+    "emailLabel": "Email",
+    "phoneLabel": "Téléphone",
+    "locationLabel": "Localisation",
+    "availableFor": "Disponible pour de nouvelles opportunités"
+  },
+  "assistant": {
+    "title": "Assistant IA",
+    "greeting": "Bonjour ! Je suis l'assistant vocal de Syrine. Posez-moi une question sur son parcours, ses projets ou ses compétences.",
+    "listening": "Je vous écoute...",
+    "thinking": "Je réfléchis...",
+    "micLabel": "Parler à l'assistant",
+    "notSupported": "La reconnaissance vocale n'est pas supportée par ce navigateur. Essayez Chrome ou Edge.",
+    "typePlaceholder": "Ou écrivez votre question ici...",
+    "send": "Envoyer",
+    "fallback": "Je n'ai pas de réponse précise à ce sujet, mais vous pouvez contacter Syrine directement par email."
+  },
+  "guide": {
+    "hero": "Bonjour et bienvenue sur mon univers ! Je suis ravie de vous faire découvrir mon parcours ✨",
+    "about": "Voici qui je suis vraiment 💫",
+    "projects": "Voici ce que j'ai construit avec passion 🚀",
+    "skills": "Ma boîte à outils du quotidien 🛠️",
+    "experience": "Mon parcours professionnel, étape par étape",
+    "education": "Découvrons ensemble mon parcours académique 🎓",
+    "certificates": "Toujours en train d'apprendre quelque chose de nouveau 📚",
+    "contact": "Une envie de collaborer ? Contactez-moi, ce sera un plaisir ! 💌",
+    "startTour": "Visite guidée",
+    "stopTour": "Arrêter la visite",
+    "voiceUnavailable": "Lecture vocale indisponible sur ce navigateur",
+    "resume": "Vous préférez tout voir sur un seul document ? Mon CV complet est juste ici, en français ou en anglais selon votre langue 📄",
+    "onboardingTitle": "Petit guide 👋",
+    "onboardingText": "Le bouton 🔊 coupe ou active ma voix. \"Visite guidée\" me fait parcourir le site à votre place, section par section.",
+    "onboardingDismiss": "Compris",
+    "voiceLabel": "Voix"
+  },
+  "resume": {
+    "title": "Mon CV",
+    "subtitle": "Une vue complète de mon parcours, en un seul document.",
+    "view": "Voir le CV",
+    "download": "Télécharger le PDF",
+    "lang_note": "Version française"
+  }
+}
